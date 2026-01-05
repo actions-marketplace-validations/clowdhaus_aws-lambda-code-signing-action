@@ -81,7 +81,7 @@
     "lint-staged": "^16.2.6",
     "semantic-release": "^25.0.2",
     "typescript": "^5.9.3",
-    "typescript-eslint": "^8.51.0"
+    "typescript-eslint": "^8.52.0"
   },
   "resolutions": {
     "tmp": ">=0.2.4"
